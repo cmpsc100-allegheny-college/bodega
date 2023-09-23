@@ -135,7 +135,7 @@ All of the above tasks completed, finish the collaborative reflection located in
 
 ## Making an improvement proposal
 
-This assignment begins your opportunity to propose and improve the world of `term-world` at-large. For this assignment, proposals may include making graphics to improve the `bodega` site experience, creating new items or actions in the `traffic-circle` itself or another assignment-related improvement not contemplated in the prior narrow categories.
+This assignment begins your opportunity to propose and improve the world of `term-world` at-large. For this assignment, proposals may include making graphics to improve the `bodega` site experience, creating new items or actions, or another assignment-related improvement not contemplated in the prior narrow categories.
 
 To make an improvement proposal, you must _create an issue_ on this repository. Do so by:
 
