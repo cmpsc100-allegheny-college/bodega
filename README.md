@@ -90,6 +90,8 @@ Once finished, running `Counter.py` should inventory your store!
 
 ### Bodega site
 
+To view your website link, you can go to `Settings` in your bodega repository and click on `Pages` on the left-side menu.
+
 **You must create a branch named `YOUR_DEPARTMENT-SITE` to conduct your work.**
 
 All of the files for your bodega site are located in the `site` folder. Every neighborhood member should make a "post" in their own file in the `_posts` folder. This file's name _must_ follow the naming convention:
