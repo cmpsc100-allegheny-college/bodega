@@ -1,13 +1,13 @@
 
 | Date              |          |
 |:------------------|:---------|
-| `TODO` | Assigned |
-| `TODO`   | Due      |
+| 25 September 2023 | Assigned |
+| 2 October 2023   | Due      |
 | Status            | [![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 # ZERO-FRILLS ZONING PROPOSAL ZAPS ZOMBIFIED ECONOMY
 
-*Reported by `The Reporter, TNN` from `TODO` on `TODO`*
+*Reported by `The Reporter, TNN` on 25 September 2023*
 
 A bold new proposal from `The Mayor` promises to make money waves of magnificent magnitudes in the shallower parts of `term-world`'s economic landscape. `The Mayor` refers to his brainchild as "Prop Stop n' Shop", an apt name for a measure meant to meaningfully magnify the microeconomies of myriad `term-world` neighborhoods.
 
@@ -27,27 +27,42 @@ In this set of activities we cover:
 
 You'll complete three main tasks:
 
-1. Developing a department of the bodega that contains `10` items in list file (more below)
-2. Collaborating a website for your bodege that demonstrates all it has to offer
+1. Developing departments of the bodega with each department containing `10` items in list file (more below)
+2. Collaborating on a website for your bodega that demonstrates all it has to offer
 3. Completing a collaborative reflection authored by all of the members of your neighborhood
+4. Completing an individual reflection
+
+## Learning Outcomes
+
+In this assignment you will learn:
+
+- Industry-standard practices using Markdown, and version control practices via GitHub Flow process
+- GitHub page viewing after successful deployment
+- Describing a project in writing
+
+You will also continue to practice:
+
+- Command line navigation
+- Running Python programs
+
+These assignment learning outcomes contribute to the following course learning outcomes described in the [course syllabus](https://github.com/cmpsc100-allegheny-college/course_information):
+
+1. Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
+5. Design, describe, and implement original projects incorporating standard practices and Python language principles.
 
 ## Supporting media
 
-We haven't yet talked directly about Markdown, though we've used it a couple of times. The following video introduces you to the ideas behind Markdown and fellow citizen, Professor Bonham-Carter.
+We haven't yet talked directly about Markdown, though we've already used it. The following video introduces you to the ideas behind Markdown and fellow citizen, Professor Bonham-Carter.
 
 [![TItle screen featuring a picture of Oliver Bonham-Carter](https://img.youtube.com/vi/cdJEUAy5IyA/maxresdefault.jpg)](https://www.youtube.com/watch?v=cdJEUAy5IyA&list=PLsYZRXov75ZHSwWiCk0-jad1RcTuu_-zmD&index=5)
 
-### Previous Learning Objectives
-
-If you wish to review previous learning objectives from our assignments, you can visit the [`Syllabus`](https://chompe.rs/100-syllabus) for helpful information. However, it's also important to make an effort to retain what we have covered thus far as we progress through the course sections of the Readme might be taken out.
-
 ## Accessing bodega Content
 
-In order to complete the workload for the `bodega` you'll first need to `clone` the `bodega` repository into your `workshop`.
+In order to complete the workload for the `bodega` you'll first need to `clone` the `bodega` repository into your `workshop`. The repository is already created for each neighborhood so you do not need to go through the process of accepting an assignment this time.
 
 When you `clone` a repository you're duplicating its contents and adding them to your local workspace. Since you'll be working collaboratively with your neighbors, you'll each need your own copy of the `bodega` to work with.
 
-Steps to `clone` collaborative assignments are the same as individual work, and are available in our course [CONTRIBUTING.md file](../../../course-materials/blob/main/CONTRIBUTING.md).
+Steps to `clone` collaborative assignments are the same as individual work, and are available in our course [CONTRIBUTING.md file](https://github.com/cmpsc100-allegheny-college/course_information/blob/main/CONTRIBUTING.md).
 
 ## Completing `bodega` content
 
