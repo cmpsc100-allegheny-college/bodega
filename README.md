@@ -68,7 +68,7 @@ Steps to `clone` collaborative assignments are the same as individual work, and 
 
 ### "List" files
 
-**You must create a branch named for your department in which to conduct your work.**
+**Each member of the neighborhood must create a branch named for your department in which to conduct your work for your bodega.**
 
 To stock your bodega, each group member is in charge of a single "department" (i.e. category) of items to stock. To stock a department, you must first have a list of items to stock! Here, each person must create a _single_ `*.list` file containing a new item on each line.
 
@@ -100,7 +100,7 @@ YEAR-MONTH-DAY-DEPARTMENT_NAME.md
 
 You will need to copy the example file to make your department file. Be sure to rename it using the convention above. 
 
-* Provide a short description of yoru department _and_
+* Provide a short description of your department _and_
 * using a Markdown list, list what your department contains
 
 Each `.md` file contains information about the department page. For example:
@@ -117,7 +117,7 @@ image: assets/images/bodega_template.png
 
 This information helps create, categorize, and design the post. Change it to reflect your contribution to the `bodega` site (via department).
 
-Anything appearing below this header uses Markdown. See earlier in this section for information on what to write here.
+Anything appearing below this header uses Markdown. This is where you provide a description of your department and list what your department contains using a Markdown list, as specified at the top of this section.
 
 #### About page
 
