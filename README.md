@@ -7,7 +7,7 @@
 
 # ZERO-FRILLS ZONING PROPOSAL ZAPS ZOMBIFIED ECONOMY
 
-*Reported by `The Reporter, TNN` on 25 September 2023*
+*Reported by `The Reporter, TNN` on 25th September 2023*
 
 A bold new proposal from `The Mayor` promises to make money waves of magnificent magnitudes in the shallower parts of `term-world`'s economic landscape. `The Mayor` refers to his brainchild as "Prop Stop n' Shop", an apt name for a measure meant to meaningfully magnify the microeconomies of myriad `term-world` neighborhoods.
 
